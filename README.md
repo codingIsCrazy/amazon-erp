@@ -1,6 +1,9 @@
 # amazon-erp
 amazon-erp
 
+amazon erp
+
+Amazon ERP
 
 亚马逊ERP 售卖，绝对市场最低价格
 
